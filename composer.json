@@ -1,0 +1,37 @@
+{
+    "name": "brocard/cloudinary-flysystem",
+    "description": "Upload files to Cloudinary cloud service",
+    "keywords": [
+        "brocardjr",
+        "laravel",
+        "laravel 5.3",
+        "flysystem",
+        "cloudinary",
+        "package"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.4",
+        "cloudinary/cloudinary_php": "^1.7",
+        "league/flysystem": "^1.0"
+    },
+    "require-dev" : {
+        "mockery/mockery": "0.9.*",
+        "phpunit/phpunit": "~5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "BrocardJrDev\\Flysystem\\Cloudinary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yusniel Brocard",
+            "email": "brocard@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "bin-dir": "bin"
+    }
+}
