@@ -1,6 +1,6 @@
 <?php
 
-namespace BrocardJrDev\Flysystem\Cloudinary\Facades;
+namespace BrocardJr\Cloudinary\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace BrocardJrDev\Flysystem\Cloudinary;
+namespace BrocardJr\Cloudinary;
 
 use Exception;
 use Cloudinary;

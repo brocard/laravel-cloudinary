@@ -1,13 +1,13 @@
 <?php
 
-namespace BrocardJrDev\Flysystem\Cloudinary;
+namespace BrocardJr\Cloudinary;
 
 use Illuminate\Config\Repository;
 
 /**
  * Class Image helper for Cloudinary Api
  *
- * @package BrocardJrDev\Flysystem\Cloudinary
+ * @package BrocardJr\Cloudinary
  * @author YBD <admin@brocardjr.com>
  */
 class Image
